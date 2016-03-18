@@ -1,0 +1,6 @@
+edu\ifpb\pp\infraestrutura\db\InfrastructureException.class
+edu\ifpb\pp\entidades\LivroRepositoryTest.class
+edu\ifpb\pp\infraestrutura\db\ConnectionHelper.class
+edu\ifpb\pp\entidades\EditoraRepositoryTest.class
+edu\ifpb\pp\NewEmptyJUnitTest.class
+edu\ifpb\pp\infraestrutura\db\DBUnitHelper.class
